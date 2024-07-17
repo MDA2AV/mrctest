@@ -1,0 +1,15 @@
+C:\Users\MDA2AV\source\repos\MRCTest\MRC.Application\bin\Debug\net8.0\MRC.Application.deps.json
+C:\Users\MDA2AV\source\repos\MRCTest\MRC.Application\bin\Debug\net8.0\MRC.Application.dll
+C:\Users\MDA2AV\source\repos\MRCTest\MRC.Application\bin\Debug\net8.0\MRC.Application.pdb
+C:\Users\MDA2AV\source\repos\MRCTest\MRC.Application\bin\Debug\net8.0\MRC.Domain.dll
+C:\Users\MDA2AV\source\repos\MRCTest\MRC.Application\bin\Debug\net8.0\MRC.Domain.pdb
+C:\Users\MDA2AV\source\repos\MRCTest\MRC.Application\obj\Debug\net8.0\MRC.Application.csproj.AssemblyReference.cache
+C:\Users\MDA2AV\source\repos\MRCTest\MRC.Application\obj\Debug\net8.0\MRC.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MDA2AV\source\repos\MRCTest\MRC.Application\obj\Debug\net8.0\MRC.Application.AssemblyInfoInputs.cache
+C:\Users\MDA2AV\source\repos\MRCTest\MRC.Application\obj\Debug\net8.0\MRC.Application.AssemblyInfo.cs
+C:\Users\MDA2AV\source\repos\MRCTest\MRC.Application\obj\Debug\net8.0\MRC.Application.csproj.CoreCompileInputs.cache
+C:\Users\MDA2AV\source\repos\MRCTest\MRC.Application\obj\Debug\net8.0\MRC.Application.csproj.CopyComplete
+C:\Users\MDA2AV\source\repos\MRCTest\MRC.Application\obj\Debug\net8.0\MRC.Application.dll
+C:\Users\MDA2AV\source\repos\MRCTest\MRC.Application\obj\Debug\net8.0\refint\MRC.Application.dll
+C:\Users\MDA2AV\source\repos\MRCTest\MRC.Application\obj\Debug\net8.0\MRC.Application.pdb
+C:\Users\MDA2AV\source\repos\MRCTest\MRC.Application\obj\Debug\net8.0\ref\MRC.Application.dll

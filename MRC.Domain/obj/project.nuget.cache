@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sJMBVmsHxNSRVQx2ApshHKIJrzij+pnQr683wJId6JpeDNaah1bQaaGw9zGVYZUD5vqziq5brnafsgzjHZMkug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MDA2AV\\source\\repos\\MRCTest\\MRC.Domain\\MRC.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MDA2AV\\.nuget\\packages\\oneof\\3.0.271\\oneof.3.0.271.nupkg.sha512"
+  ],
+  "logs": []
+}
